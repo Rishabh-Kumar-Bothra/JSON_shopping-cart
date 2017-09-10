@@ -1,0 +1,17 @@
+.container-fluid{
+    padding: 10px;
+}
+.heart-off {
+    color :darkgrey;
+}
+.heart-on {
+    color:red;
+}
+.fa-shopping-cart{
+    color:blue;
+}
+.table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
